@@ -1,2 +1,2 @@
 This is to demo git
-update 1
+This is to demo push/pull operations.
